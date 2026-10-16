@@ -1,0 +1,35 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1e"/>
+      <stop offset="50%" stop-color="#0f1b33"/>
+      <stop offset="100%" stop-color="#0a0f1e"/>
+    </linearGradient>
+    <linearGradient id="accentGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="100%" stop-color="#4FACFE"/>
+    </linearGradient>
+    <linearGradient id="fadeGradF" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridF" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4FACFE" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="180" rx="16" fill="url(#bgGradF)"/>
+  <rect width="1200" height="180" rx="16" fill="url(#gridF)"/>
+
+  <!-- top wave -->
+  <path d="M0 0 H1200 V22 Q900 52 600 24 T0 30 Z" fill="url(#fadeGradF)"/>
+
+  <!-- message -->
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="url(#accentGradF)" letter-spacing="2">Thanks for visiting</text>
+  <rect x="500" y="108" width="200" height="2" rx="1" fill="url(#accentGradF)" opacity="0.85"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8aa3c7" letter-spacing="2">nanodev.io.vn · github.com/congluuit</text>
+
+  <!-- ambient glow -->
+  <circle cx="140" cy="140" r="90" fill="#00F2FE" fill-opacity="0.05"/>
+  <circle cx="1060" cy="40" r="100" fill="#4FACFE" fill-opacity="0.05"/>
+</svg>
