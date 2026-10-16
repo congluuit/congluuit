@@ -14,7 +14,6 @@
 
   <!-- BADGES / SOCIAL LINKS -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=congluuit&label=PROFILE+VIEWS&color=00ADB5&style=for-the-badge" alt="Profile Views" />
     <a href="https://nanodev.io.vn" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-nanodev.io.vn-4FACFE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
@@ -68,9 +67,9 @@
 
   <!-- Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,tailwind,html,css,cs,unity,rust,dotnet,redis&perline=14&theme=dark" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,rust,cs,unity,java,spring,tailwind&perline=10&theme=dark" alt="Tech Stack 1" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,git,github,cloudflare,linux,windows,vscode,idea,postman,figma&perline=14&theme=dark" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,cloudflare,git,github,vscode&perline=10&theme=dark" alt="Tech Stack 2" />
   </a>
 
   <br/><br/>
@@ -85,31 +84,31 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/RESTful_API-0052D4?style=flat-square" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/MMORPG_Client--Server-8E44AD?style=flat-square" /><br/>
         <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Agent_Workflow-412991?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/Realtime_Systems-00ADB5?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/AI_Agent_Workflow-412991?style=flat-square" />
+        <img src="https://img.shields.io/badge/MMORPG_Client--Server-8E44AD?style=flat-square" />
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       </td>
     </tr>
@@ -217,13 +216,13 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- BREAKOUT CONTRIBUTION GAME -->
 <div align="center">
-  <h3>🐍 GitHub Contribution Matrix</h3>
+  <h3>🧱 Contribution Breakout</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/congluuit/congluuit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/congluuit/congluuit/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/congluuit/congluuit/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/congluuit/congluuit/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/congluuit/congluuit/output/breakout-contribution-graph.svg">
+    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/congluuit/congluuit/output/breakout-contribution-graph.svg">
   </picture>
 </div>
 
