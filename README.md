@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://github.com/congluuit">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=760&lines=Xin%20ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20L%C6%B0u%20%C4%90%E1%BB%A9c%20Th%C3%A0nh%20C%C3%B4ng%20(NANO)%20%F0%9F%91%8B;Technical%20Lead%20%C2%B7%20Software%20Engineer;10%2B%20n%C4%83m%20Game%20Development%20%C2%B7%208%2B%20n%C4%83m%20Web%20%26%20App;AI%20Integration%20%C2%B7%20Enterprise%20%C2%B7%20Realtime%20Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=760&lines=Xin%20ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20L%C6%B0u%20%C4%90%E1%BB%A9c%20Th%C3%A0nh%20C%C3%B4ng%20(Pret)%20%F0%9F%91%8B;Technical%20Lead%20%C2%B7%20Software%20Engineer;10%2B%20n%C4%83m%20Game%20Development%20%C2%B7%208%2B%20n%C4%83m%20Web%20%26%20App;AI%20Integration%20%C2%B7%20Enterprise%20%C2%B7%20Realtime%20Systems" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -36,19 +36,19 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 Về Thành Công - NANO (About Me)</h3>
+      <h3>👨‍💻 Về Thành Công - Pret (About Me)</h3>
       <p>
-        Mình là <b>Lưu Đức Thành Công (NANO)</b>, Technical Lead tại <b>Red Hare Studios</b>. Hơn 10 năm phát triển game và 8 năm xây dựng web/app, hiện tập trung đưa AI/LLM vào quy trình phát triển và các sản phẩm vận hành thực tế.
+        Mình là <b>Lưu Đức Thành Công (Pret)</b>, Technical Lead &amp; Đại diện pháp luật của <b>Red Hare Studios</b> tại VN. Hơn 10 năm phát triển game và 8 năm xây dựng web/app, hiện tập trung đưa AI/LLM vào quy trình phát triển và các sản phẩm vận hành thực tế.
       </p>
-      <ul>
-        <li>🔭 <b>Lĩnh vực trọng tâm:</b> Kiến trúc phần mềm, tích hợp AI/LLM vào workflow, hệ thống realtime và game.</li>
-        <li>⚙️ <b>Kinh nghiệm kỹ thuật:</b> Backend Java/Spring Boot &amp; Node.js, frontend React/TypeScript, desktop tooling bằng Rust, game Unity &amp; MMORPG client-server.</li>
-        <li>🌱 <b>Đang mở rộng:</b> AI agentic workflow, Cloudflare Workers/Pages và kiến trúc hệ thống phân tán.</li>
-        <li>💬 <b>Sẵn sàng kết nối:</b> Trao đổi công nghệ, review kiến trúc hệ thống và cơ hội hợp tác phát triển.</li>
-      </ul>
+      <pre>const pret = {
+  focus:     "Software architecture · AI/LLM · Realtime · Game",
+  proven:    "Java/Spring · Node.js · React/TS · Rust · Unity/MMORPG",
+  exploring: "AI agentic workflow · Cloudflare edge · Distributed systems",
+  openTo:    "Tech discussion · Architecture review · Collaboration",
+};</pre>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="NANO Coding" />
+      <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="280px" alt="Pret - Hacking Mode" />
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@
 
 <!-- FEATURED PROJECTS SHOWCASE -->
 <div align="center">
-  <h3>🚀 Dự Án &amp; Sản Phẩm Tiêu Biểu (Featured Projects)</h3>
+  <h3>🚀 Dự Án &amp; Sản Phẩm Cá Nhân (Personal Projects)</h3>
 </div>
 
 <br/>
